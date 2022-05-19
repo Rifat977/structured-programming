@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-	
+ 	
 	double basic_salary, dearness_allowance, house_rent, gross_salary;
 
 	printf("Enter niloys basic salary: ");
